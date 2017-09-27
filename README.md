@@ -1,1 +1,1 @@
-# Deep-Learning-Nanodegree
+# Independent Projects in Deep Learning
